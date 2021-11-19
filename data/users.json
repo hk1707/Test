@@ -1,0 +1,29 @@
+[
+    {
+        "firstName": "Hitesh",
+        "lastName": "Talpada",
+        "username": "Hitesh",
+        "hash": "$2a$10$rihTx4PVDm3qcdu50nE10O.Vl.xY86Mt6uFLNrLFKjyXgcNor7vJy",
+        "id": 3,
+        "dateCreated": "2021-11-19T07:04:40.062Z",
+        "dateUpdated": "2021-11-19T07:04:40.062Z"
+    },
+    {
+        "firstName": "developer",
+        "lastName": "Test",
+        "username": "developer",
+        "hash": "$2a$10$th3HZfNQHT4hxPlcyOuI7ORqpq61d5hauOrfS/w1GmAiifI2IfCA2",
+        "id": 4,
+        "dateCreated": "2021-11-19T10:10:08.460Z",
+        "dateUpdated": "2021-11-19T10:10:08.460Z"
+    },
+    {
+        "firstName": "developer",
+        "lastName": "Test",
+        "username": "Developer",
+        "hash": "$2a$10$PVc.OYQ2hnqrwzYBXDAeH.BcEI8bjTefSrT0GUr6I2pNJv5m83JDC",
+        "id": 5,
+        "dateCreated": "2021-11-19T10:13:26.065Z",
+        "dateUpdated": "2021-11-19T10:13:26.065Z"
+    }
+]
