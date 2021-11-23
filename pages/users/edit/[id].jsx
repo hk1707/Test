@@ -14,6 +14,7 @@ function Edit({ id }) {
 
     useEffect(() => {
         // fetch user and set default form values if in edit mode
+        console.log(userService);
         userService.getById(id)
             .then(x => setUser(x))
             .catch(alertService.error)
@@ -30,6 +31,7 @@ function Edit({ id }) {
 }
 
 export async function getServerSideProps({ params }) {
+    console.log( params );
     return {
         props: { id: params.id }
     }

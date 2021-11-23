@@ -18,12 +18,21 @@
         "dateUpdated": "2021-11-19T10:10:08.460Z"
     },
     {
-        "firstName": "developer",
+        "firstName": "test",
         "lastName": "Test",
-        "username": "Developer",
-        "hash": "$2a$10$PVc.OYQ2hnqrwzYBXDAeH.BcEI8bjTefSrT0GUr6I2pNJv5m83JDC",
-        "id": 5,
-        "dateCreated": "2021-11-19T10:13:26.065Z",
-        "dateUpdated": "2021-11-19T10:13:26.065Z"
+        "username": "Developer1",
+        "hash": "$2a$10$Os3yqAoGcGYBXc5bWG0COudj9..uFQtHsHTkTkdzhdCaMhWcm4CLe",
+        "id": 6,
+        "dateCreated": "2021-11-22T10:37:35.962Z",
+        "dateUpdated": "2021-11-22T10:37:35.962Z"
+    },
+    {
+        "firstName": "Hello",
+        "lastName": "Hello",
+        "username": "Hello@Test",
+        "hash": "$2a$10$FzSN.07DPlooHcgt3R6R4eTvjmfraBmX3M9py065Dkmdw6Yax54DC",
+        "id": 7,
+        "dateCreated": "2021-11-22T13:13:51.349Z",
+        "dateUpdated": "2021-11-22T13:13:51.349Z"
     }
 ]
